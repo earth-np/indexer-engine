@@ -1,0 +1,5 @@
+Flask==2.0.1
+peewee==3.14.4
+Werkzeug==2.2.2
+web3==6.20.0
+eth-abi==5.1.0
